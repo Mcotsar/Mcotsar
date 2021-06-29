@@ -2,7 +2,7 @@
 
 but
 
-Hola! I'm María, from Spain, a computational archaeologist and now Postdoc working on the PalaeoSilkRoad project at University of Tübingen. Hope you enjoy my git (I don't). I highly recommend [Disturbingmovieslist](https://github.com/Mcotsar/Disturbingmovieslist) but for nonsense stuff, feminism and science you can follow me on my [twitter](https://twitter.com/Mcotsar) (Spanish / English). 
+Hola! I'm María, from Spain, a computational archaeologist and now Postdoc working on the PalaeoSilkRoad project at University of Tübingen. Hope you enjoy my git (I don't). You can also see my academic work [here](https://scholar.google.es/citations?user=edhP6ewAAAAJ&hl=es). I highly recommend [Disturbingmovieslist](https://github.com/Mcotsar/Disturbingmovieslist) but for nonsense stuff, feminism and science you can follow me on my [twitter](https://twitter.com/Mcotsar) (Spanish / English). 
 
 
 
